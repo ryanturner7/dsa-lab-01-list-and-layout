@@ -1,4 +1,4 @@
-![cf](https://i.imgur.com/7v5ASc8.png) dsa-lab-01-list-andlayout
+![cf](https://i.imgur.com/7v5ASc8.png) dsa-lab-01-list-and-layout
 ======
 ## To Submit this Assignment
 #### UI Challenge
