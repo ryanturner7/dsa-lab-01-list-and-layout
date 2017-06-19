@@ -52,6 +52,7 @@ html, body{
   margin: 0 auto;
 
 }
+
 .collection-item{
   width: calc((100%/3) - 0.5em);
   float: left;

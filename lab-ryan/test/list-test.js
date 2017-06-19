@@ -32,7 +32,8 @@
          list.push('natalie');
          let toUpperCase = list.map(item => item.toUpperCase());
          expect(JSON.stringify(sam)).toEqual(JSON.stringify({'0':}))
-       })
-     })
+       });
+       
+     });
    });
  });
