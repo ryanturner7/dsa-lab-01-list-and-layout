@@ -45,4 +45,15 @@ return result;
 
 List.prototype.slice = function(){
 
+let result = new List(), i, finish;
+i;
+if(begin){
+  i=begin
+} else {
+  finsish = this.length;
 }
+for(i; i < finish; i++){
+  result.push(this[i]);
+}
+return result;
+};
